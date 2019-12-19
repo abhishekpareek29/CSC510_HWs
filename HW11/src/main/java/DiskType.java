@@ -1,0 +1,4 @@
+enum DiskType
+{
+    BLUERAY,DVD;
+}
